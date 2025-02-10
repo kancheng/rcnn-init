@@ -1,7 +1,0 @@
-opencv-python
-pycocotools
-Pillow
-numpy
-torch
-torchvision
-torchaudio
